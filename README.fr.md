@@ -13,7 +13,7 @@ Plateformes sélectionnées · repères de prix vérifiés · modèles prêts à
 
 </div>
 
-🌐 **Languages:** [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
+🌐 **Langues:** [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português (Brasil)](README.pt-BR.md)
 
 > **Le sponsoring est un canal de vente, pas une récompense liée au nombre d'étoiles.** Les
 > étoiles sont un indicateur de popularité — les véritables leviers de prix sont les
@@ -257,6 +257,8 @@ Copiez-collez, remplissez les `[brackets]`, publiez.
 | [docs/faq.md](docs/faq.md) | 15+ Q/R |
 
 Données (source de vérité) : [`data/platforms.yml`](data/platforms.yml) · [`data/pricing-benchmarks.yml`](data/pricing-benchmarks.yml) · [`data/sponsor-types.yml`](data/sponsor-types.yml) · [`data/affiliate-programs.yml`](data/affiliate-programs.yml).
+
+🌐 **Langues:** [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português (Brasil)](README.pt-BR.md)
 
 ---
 

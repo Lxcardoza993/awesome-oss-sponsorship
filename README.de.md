@@ -13,7 +13,7 @@ Kuratierte Plattformen · verifizierte Preisanker · Copy-Paste-Vorlagen · echt
 
 </div>
 
-🌐 **Languages:** [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
+🌐 **Sprachen:** [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português (Brasil)](README.pt-BR.md)
 
 > **Sponsoring ist ein Vertriebskanal, keine Belohnung für Sternzahlen.** Sterne sind
 > ein Beliebtheits-Proxy — die eigentlichen Preistreiber sind **eindeutige monatliche
@@ -256,6 +256,8 @@ Copy-Paste, `[Klammern]` ausfüllen, ausliefern.
 | [docs/faq.md](docs/faq.md) | 15+ Q&A |
 
 Daten (Source of Truth): [`data/platforms.yml`](data/platforms.yml) · [`data/pricing-benchmarks.yml`](data/pricing-benchmarks.yml) · [`data/sponsor-types.yml`](data/sponsor-types.yml) · [`data/affiliate-programs.yml`](data/affiliate-programs.yml).
+
+🌐 **Sprachen:** [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português (Brasil)](README.pt-BR.md)
 
 ---
 

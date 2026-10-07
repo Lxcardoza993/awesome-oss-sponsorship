@@ -13,7 +13,7 @@ Plataformas curadas · anclajes de precios verificados · plantillas para copiar
 
 </div>
 
-🌐 **Languages:** [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Deutsch](README.de.md)
+🌐 **Idiomas:** [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português (Brasil)](README.pt-BR.md)
 
 > **El patrocinio es un canal de ventas, no una recompensa por número de estrellas.** Las
 > estrellas son un indicador de popularidad — los verdaderos motores del precio son los
@@ -256,6 +256,8 @@ Copia y pega, rellena los `[brackets]`, publica.
 | [docs/faq.md](docs/faq.md) | 15+ preguntas y respuestas |
 
 Datos (fuente de verdad): [`data/platforms.yml`](data/platforms.yml) · [`data/pricing-benchmarks.yml`](data/pricing-benchmarks.yml) · [`data/sponsor-types.yml`](data/sponsor-types.yml) · [`data/affiliate-programs.yml`](data/affiliate-programs.yml).
+
+🌐 **Idiomas:** [English](README.md) · [中文](README.zh-CN.md) · [Español](README.es.md) · [日本語](README.ja.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português (Brasil)](README.pt-BR.md)
 
 ---
 
