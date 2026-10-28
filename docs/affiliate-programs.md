@@ -52,6 +52,7 @@ That means two things:
 | [DigitalOcean](https://www.digitalocean.com/affiliates) | Cloud hosting | 10% recurring 12 mo (affiliate) OR $25 credit (referral) | n/d | Network (Awin/CJ) | ★★ deploy/host; use affiliate for cash |
 | [Netlify](https://www.netlify.com/partners/) | Jamstack hosting | 20% recurring, up to 12–24 mo | n/d | PartnerStack (application required) | ★★ frontend deploy |
 | [Vercel / v0](https://partners.dub.co/v0) | Frontend deploy | v0: 30% recurring 6 mo + $5/lead | n/d | Dub | ★★ v0/AI-editor centric |
+| [Newly](https://newly.app/affiliates) | AI mobile app builder | 60% recurring, first 6 mo per customer | 30 d | Tolt; PayPal/Wise/wire/local bank; $0 min, monthly NET-15 | Mobile-development tutorials and communities; [terms checked 2026-10-28](https://newly.app/affiliates/terms) |
 
 `n/d` = not documented on the official page. ★★★ = strong OSS/devtool audience fit.
 
