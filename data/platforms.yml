@@ -376,11 +376,35 @@ platforms:
       - "Revenue share not public; payout threshold/methods undisclosed"
     notes: "Strongest fit if you run a real developer newsletter. The 25k-subscriber / 1M-impression floors are the key gates. Not relevant for repo/README/docs monetization."
 
+  - name: distribution.dev
+    category: ads
+    url: https://distribution.dev
+    docs: https://distribution.dev/publishers/
+    status: alive
+    best_for: "Developer sites, docs and newsletters that want one labeled ad per page from reviewed developer-tool advertisers."
+    monetization_model:
+      publisher_revshare: "70% of what advertisers pay for the ads on your site"
+      reporting: "Dashboard shows what each advertiser paid, the network's share and your earnings, per campaign"
+      model: "CPM/CPC basis not stated on the publisher page (unverified)"
+    region: "Global; ads matched to page content, not personal profiles"
+    payout_support: "Paid monthly, for what the month earned. Minimum payout and payout methods not public (unverified)."
+    pros:
+      - "70% revshare, with advertiser gross and your share shown for every campaign"
+      - "One labeled ad per page; article card, docs card and newsletter block (one sponsor per issue)"
+      - "Advertisers are developer-tool or cloud companies reviewed by hand; publishers can switch off categories"
+      - "No published traffic minimum; a person reviews every application and replies with a reason"
+    cons:
+      - "Application and approval required; no self-serve sign-up"
+      - "Payout threshold and methods not public"
+      - "README and podcast placements not listed"
+    notes: "Run by daily.dev, which is also one of its publishers. Facts from https://distribution.dev/publishers/ and https://distribution.dev/faq/, fetched 2026-11-12."
+
 # ---------------------------------------------------------------------------
 # Quick status summary (2026-06-29):
 #   alive          : GitHub Sponsors, Open Collective, Open Source Collective,
 #                    Buy Me a Coffee, Patreon, thanks.dev, StackAid,
-#                    EthicalAds, Carbon Ads, BuySellAds, Paved
+#                    EthicalAds, Carbon Ads, BuySellAds, Paved,
+#                    distribution.dev (added 2026-11-12)
 #   alive_pivoted  : Polar (→ AI billing MoR), Algora (→ recruiting + bounty sidebar),
 #                    Passionfroot (→ Zest B2B GTM)
 #   alive_unverified: Ko-fi (403 to fetchers)

@@ -119,6 +119,7 @@ sponsor、怎么报人民币价、怎么做"固定费用 + 返佣"、怎么避�
 | BuySellAds | 广告(多形态) | ✅ 在营 | 托管 | 邮件/原生/赞助/播客 |
 | Passionfroot | 广告/市场 | 🔄 转型→Zest | 2% / 15% | Newsletter 品牌合作 |
 | Paved | 广告(Newsletter) | ✅ 在营 | 固定 + PPC | Newsletter(2.5 万订阅 / 100 万 PV) |
+| distribution.dev | 广告(分成) | ✅ 在营 | 70% 分成,按月结算 | 开发者网站、文档站、Newsletter(需人工审核) |
 
 完整结构化数据:[`data/platforms.yml`](data/platforms.yml)。
 
@@ -286,7 +287,7 @@ sponsor、怎么报人民币价、怎么做"固定费用 + 返佣"、怎么避�
 | [docs/github-sponsors.md](docs/github-sponsors.md) | 资格、地区(中国坑)、开通、档位、手续费、README 展示 |
 | [docs/open-collective.md](docs/open-collective.md) | fiscal host、OSC 501(c)(6)、公开账本、方案/费 |
 | [docs/polar.md](docs/polar.md) | 转型为 AI 计费/MoR——何时用、何时不 |
-| [docs/ad-networks.md](docs/ad-networks.md) | EthicalAds、Carbon、BuySellAds、Passionfroot、Paved |
+| [docs/ad-networks.md](docs/ad-networks.md) | EthicalAds、Carbon、BuySellAds、Passionfroot、Paved、distribution.dev |
 | [docs/affiliate-programs.md](docs/affiliate-programs.md) | 已核实返佣程序 + 辟谣清单 + 联盟网络 |
 | [docs/pricing.md](docs/pricing.md) | 怎么定价(看流量不看 star)+ 估算网格 |
 | [docs/sponsor-kit.md](docs/sponsor-kit.md) | 怎么搭 sponsor kit(指南)+ GitHub Traffic 事实 |
