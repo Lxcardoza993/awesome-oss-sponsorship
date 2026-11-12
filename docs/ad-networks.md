@@ -17,6 +17,7 @@ official page before signing up.
 - [BuySellAds](#buysellads)
 - [Passionfroot](#passionfroot)
 - [Paved](#paved)
+- [distribution.dev](#distributiondev)
 - [Comparison table](#comparison-table)
 - [Revenue math](#revenue-math)
 - [Choosing by inventory type](#choosing-by-inventory-type)
@@ -30,6 +31,7 @@ official page before signing up.
 | [BuySellAds](https://www.buysellads.com) | managed + directory | email/native/sponsored/display/podcast/custom | contact required | alive (parent umbrella) |
 | [Passionfroot](https://www.passionfroot.me) | creator marketplace | newsletter/YouTube/LinkedIn/X/TikTok | pivoted to "Zest" B2B GTM | alive_pivoted |
 | [Paved](https://www.paved.com) | flat-fee + PPC | newsletter only | 25k subs (flat) / 1M impressions (PPC) | alive |
+| [distribution.dev](https://distribution.dev) | 70% revshare, reviewed application | site/docs display + newsletter | human review; no published traffic minimum | alive |
 
 > **Two pivots/sub-networks to remember:** Carbon Ads is a **BuySellAds
 > sub-network** (its official domain is **carbonads.NET**, not .com, and
@@ -130,21 +132,43 @@ Newsletter-only monetization. No podcast/blog/docs/README.
   / 1M-impression floors are the key gates. Not relevant for repo/README/docs
   monetization.
 
+## distribution.dev
+
+A developer ad network run by daily.dev, covering sites, docs and newsletters.
+
+- **Model:** publisher keeps **70%** of what advertisers pay for the ads on
+  their site. Whether that is sold on CPM or CPC is not stated (unverified).
+  The dashboard shows what each advertiser paid, the network's share and your
+  earnings, per campaign ([source](https://distribution.dev/publishers/)).
+- **Requirements:** a regular developer audience and room for **one labeled ad
+  per page**. No published traffic minimum; a person reviews every application
+  and replies with a reason ([source](https://distribution.dev/faq/)).
+- **Formats:** article card, docs card, and a newsletter block (one sponsor per
+  issue). README and podcast placements are not listed.
+- **Advertisers:** developer-tool and cloud companies reviewed by hand;
+  publishers can switch off categories they don't want.
+- **Privacy:** ads matched to page content, not personal profiles; traffic and
+  earnings data used only to serve, measure, report and pay for ads, never sold.
+- **Payout:** monthly, for what the month earned. Minimum and methods not
+  public (unverified).
+- **Best for:** developer **sites, docs and newsletters** that want one
+  reviewed ad and per-campaign visibility into what advertisers paid.
+
 ## Comparison table
 
-| Criterion | EthicalAds | Carbon Ads | BuySellAds | Passionfroot | Paved |
-|-----------|-----------|------------|------------|--------------|-------|
-| Status | alive | alive | alive | alive_pivoted (→Zest) | alive |
-| Model | CPM | CPC (sales-assisted) | managed + directory | marketplace (brand deals) | flat-fee + PPC |
-| Inventory | docs/site display | curated site display | email/native/sponsored/display/podcast/custom | newsletter/YouTube/LinkedIn/X/TikTok | newsletter only |
-| Self-serve? | yes | no | no (contact) | platform-matched or self-managed | yes (direct) |
-| Audience gate | ~50k pageviews, dev-only | curated 350+ sites | contact required | pivoted to B2B GTM | 25k subs / 1M impressions |
-| Publisher payout terms | public ($50 min; PayPal/OC/Sponsors/Stripe) | **not public** | not disclosed | via FrootWallet (unverified) | automated (rev-share % unverified) |
-| Transparency | high (open source, CPM public) | advertiser min public; publisher not | low (no pricing) | low (brand pricing not public) | medium (floors public; rev-share not) |
-| Newsletter? | no | no | yes | yes | yes (only) |
-| Podcast? | no | no | yes | no | no |
-| README? | no | no | no | no | no |
-| Best for | docs site | curated dev/design site | multi-format site+news+podcast | newsletter brand deals | newsletter ads |
+| Criterion | EthicalAds | Carbon Ads | BuySellAds | Passionfroot | Paved | distribution.dev |
+|-----------|-----------|------------|------------|--------------|-------|------------------|
+| Status | alive | alive | alive | alive_pivoted (→Zest) | alive | alive |
+| Model | CPM | CPC (sales-assisted) | managed + directory | marketplace (brand deals) | flat-fee + PPC | 70% revshare (CPM/CPC not stated) |
+| Inventory | docs/site display | curated site display | email/native/sponsored/display/podcast/custom | newsletter/YouTube/LinkedIn/X/TikTok | newsletter only | site/docs display + newsletter |
+| Self-serve? | yes | no | no (contact) | platform-matched or self-managed | yes (direct) | no (application) |
+| Audience gate | ~50k pageviews, dev-only | curated 350+ sites | contact required | pivoted to B2B GTM | 25k subs / 1M impressions | dev audience; no published minimum |
+| Publisher payout terms | public ($50 min; PayPal/OC/Sponsors/Stripe) | **not public** | not disclosed | via FrootWallet (unverified) | automated (rev-share % unverified) | monthly; min and methods not public |
+| Transparency | high (open source, CPM public) | advertiser min public; publisher not | low (no pricing) | low (brand pricing not public) | medium (floors public; rev-share not) | medium (rev-share and per-campaign gross public; CPM not) |
+| Newsletter? | no | no | yes | yes | yes (only) | yes |
+| Podcast? | no | no | yes | no | no | no |
+| README? | no | no | no | no | no | no |
+| Best for | docs site | curated dev/design site | multi-format site+news+podcast | newsletter brand deals | newsletter ads | dev site/docs/newsletter, one reviewed ad |
 
 ## Revenue math
 
@@ -184,7 +208,7 @@ To derive your own newsletter number (estimate / reference only):
 | A **site + newsletter + podcast** bundle | BuySellAds | Multi-format, human account team, but no pricing transparency |
 | A **newsletter** (Beehiiv/Substack) seeking inbound brand deals | Passionfroot | 2% self-managed / 15% matched; pivoted to Zest B2B GTM |
 | A **newsletter** with ≥25k subs or ≥1M impressions | Paved | Newsletter-only scale (3,000+ newsletters, 253M subs) |
-| A **README** or repo only | none of these | All five are site/newsletter/podcast — not README. Sell README slots directly via a [rate card](../templates/rate-card.md) instead. |
+| A **README** or repo only | none of these | All six are site/newsletter/podcast — not README. Sell README slots directly via a [rate card](../templates/rate-card.md) instead. |
 
 ## See also
 

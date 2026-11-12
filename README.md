@@ -115,6 +115,7 @@ Statuses verified 2026-06-29 against official sites. Fees are **reference only**
 | BuySellAds | ads (multi) | ✅ alive | managed | email/native/sponsored/podcast |
 | Passionfroot | ads/marketplace | 🔄 pivoted→Zest | 2% / 15% | newsletter brand deals |
 | Paved | ads (newsletter) | ✅ alive | flat + PPC | newsletters (25k subs / 1M pv) |
+| distribution.dev | ads (revshare) | ✅ alive | 70% revshare, monthly payout | dev sites, docs, newsletters (reviewed application) |
 
 Full structured DB: [`data/platforms.yml`](data/platforms.yml).
 
@@ -230,7 +231,7 @@ Copy-paste, fill in the `[brackets]`, ship.
 | [docs/github-sponsors.md](docs/github-sponsors.md) | Eligibility, regions (China caveat), setup, tiers, fees, README display |
 | [docs/open-collective.md](docs/open-collective.md) | Fiscal hosts, OSC 501(c)(6), public ledger, plans/fees |
 | [docs/polar.md](docs/polar.md) | The pivot to AI billing / MoR — when it fits vs not |
-| [docs/ad-networks.md](docs/ad-networks.md) | EthicalAds, Carbon, BuySellAds, Passionfroot, Paved |
+| [docs/ad-networks.md](docs/ad-networks.md) | EthicalAds, Carbon, BuySellAds, Passionfroot, Paved, distribution.dev |
 | [docs/affiliate-programs.md](docs/affiliate-programs.md) | Verified affiliate programs + the de-bunk list + networks |
 | [docs/pricing.md](docs/pricing.md) | How to price (traffic, not stars) + estimate grid |
 | [docs/sponsor-kit.md](docs/sponsor-kit.md) | Building a sponsor kit (guide) + GitHub Traffic facts |
