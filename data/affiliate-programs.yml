@@ -183,6 +183,20 @@ active_programs:
     oss_fit: "Yes — Vercel/v0 squarely Next.js/frontend-deploy; revenue share is v0/AI-editor centric."
     notes: "No standard Vercel/Next.js referral commission — the active program is v0-based."
 
+  - name: ForAgent
+    category: ai_devtool
+    url: https://foragent.io/affiliates
+    docs: https://foragent.io/affiliates#terms
+    status: active
+    commission: "30% recurring on paid Pro ($9.99/mo) and Scale ($29.99/mo) subscriptions for first 12 billing months (30-day hold)"
+    cookie_days: 60
+    payout: "PromoteKit (monthly, 30 days after month ends)"
+    min_payout: "$50"
+    network: promotekit
+    referred_user_credit: "20% off first 3 months via partner promo code (counts even without a link click)"
+    oss_fit: "Strong fit for AI coding-agent, MCP, Claude Code, Codex, and developer-tool repositories."
+    notes: "Instant approval on signup (https://foragent.promotekit.com). Verified 2026-11-21 against official /affiliates page. No self-referrals or brand search ads."
+
 # ---------------------------------------------------------------------------
 # Closed / sunset / dead — flag explicitly so readers don't waste time.
 # ---------------------------------------------------------------------------
