@@ -52,6 +52,7 @@ That means two things:
 | [DigitalOcean](https://www.digitalocean.com/affiliates) | Cloud hosting | 10% recurring 12 mo (affiliate) OR $25 credit (referral) | n/d | Network (Awin/CJ) | ★★ deploy/host; use affiliate for cash |
 | [Netlify](https://www.netlify.com/partners/) | Jamstack hosting | 20% recurring, up to 12–24 mo | n/d | PartnerStack (application required) | ★★ frontend deploy |
 | [Vercel / v0](https://partners.dub.co/v0) | Frontend deploy | v0: 30% recurring 6 mo + $5/lead | n/d | Dub | ★★ v0/AI-editor centric |
+| [ForAgent](https://foragent.io/affiliates) | AI devtool | 30% recurring, 12 mo (Pro $9.99 / Scale $29.99) | 60 d | PromoteKit, $50 min, Net-30 | ★★★ AI coding-agent / MCP repos |
 
 `n/d` = not documented on the official page. ★★★ = strong OSS/devtool audience fit.
 
